@@ -1,5 +1,11 @@
 [workspace]
-members = ["benchmarks", "day_1", "day_3", "day_4"]
+members = [
+    "benchmarks",
+    "day_1",
+    "day_2",
+    "day_3",
+    "day_4"
+]
 
 [profile.release]
 opt-level = 3

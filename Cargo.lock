@@ -46,6 +46,7 @@ version = "0.1.0"
 dependencies = [
  "criterion",
  "day_1",
+ "day_2",
  "day_3",
  "day_4",
  "plotters",
@@ -374,6 +375,10 @@ dependencies = [
 
 [[package]]
 name = "day_1"
+version = "0.1.0"
+
+[[package]]
+name = "day_2"
 version = "0.1.0"
 
 [[package]]
