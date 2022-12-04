@@ -11,5 +11,6 @@ harness = false
 [dev-dependencies]
 criterion = "0.4.0"
 plotters = "0.3.0"
+day_1 = { path = "../day_1" }
 day_3 = { path = "../day_3" }
 day_4 = { path = "../day_4" }

@@ -45,6 +45,7 @@ name = "benchmarks"
 version = "0.1.0"
 dependencies = [
  "criterion",
+ "day_1",
  "day_3",
  "day_4",
  "plotters",
@@ -370,6 +371,10 @@ dependencies = [
  "quote",
  "syn",
 ]
+
+[[package]]
+name = "day_1"
+version = "0.1.0"
 
 [[package]]
 name = "day_3"
